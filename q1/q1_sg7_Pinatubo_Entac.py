@@ -30,7 +30,6 @@ class Glassware:
         print("Glassware disappeared.")
 
 
-# Execution
 lab_setup = Glassware()
 lab_setup.inspect()
 del lab_setup
